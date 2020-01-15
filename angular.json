@@ -64,7 +64,8 @@
             ],
             "styles": [
               "node_modules/bootstrap/dist/css/bootstrap.min.css",
-              "projects/table-list-showcase/src/styles.scss"
+              "projects/table-list-showcase/src/styles.scss",
+              "projects/table-list/src/lib/material/material-import.scss"
             ],
             "scripts": [
               "node_modules/jquery/dist/jquery.min.js",
